@@ -1,0 +1,1 @@
+console.log("Hello js");//print statement in javascript
